@@ -1,0 +1,6 @@
+<svg focusable="true" tabIndex="0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>#background {
+        fill: hsl(0,10%,50%);
+        stroke: black;
+      }</style><rect id="background" x="-50" y="-50" width="200" height="200" fill="url(#gradient)"></rect><g id="svgcontainer"></g><script><![CDATA[
+      (()=>{var t=0;window.addEventListener("load",(function(){return(e=document.createElementNS("http://www.w3.org/2000/svg","text")).setAttribute("font-size","12"),e.setAttribute("fill","hsla(10,40%,80%,.8)"),e.setAttribute("text-align","center"),e.setAttribute("x","20"),e.setAttribute("y","{height/2}"),void window.setInterval((function(){t++,e.textContent="count: "+t}),1e3);var e}))})();
+    ]]></script></svg>
