@@ -1,0 +1,29 @@
+{
+  "name": "typescript-in-svg-starter",
+  "version": "1.0.0",
+  "description": "a simple template for injecting compiled TS into SVG",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch --mode=development",
+    "start": "webpack serve"
+  },
+  "keywords": [
+    "svg",
+    "typescript",
+    "webpack",
+    "template",
+    "hicetnunc"
+  ],
+  "author": "knowuh@gmail.com",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.1",
+    "ts-loader": "^8.0.18",
+    "typescript": "^4.2.3",
+    "webpack": "^5.27.1",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
